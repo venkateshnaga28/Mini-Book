@@ -37,7 +37,7 @@ const Add = () => {
                     <Typography variant='h6' color="gray" textAlign="center">Create Post</Typography>
                     <UserBox>
                         <Avatar src="https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" sx={{ width: 30, height: 30 }}>NV</Avatar>
-                        <Typography fontWeight={500} variant="span">Naga</Typography>
+                        <Typography fontWeight={500} variant="span">Naga Venkatesh</Typography>
                     </UserBox>
                     <TextField
                         sx={{ width: "100%" }}
